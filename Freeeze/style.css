@@ -1,0 +1,99 @@
+body {
+    border: 1px solid white;
+    box-sizing: border-box;
+    
+    text-align: center;
+
+}
+.no {
+    color: yellow;
+    font-size: 50pt;
+}
+.yes {
+    color: violet;
+    font-size: 50pt;
+}
+.container-fluid {
+    font-size: 15pt;
+    background-color: teal;
+    
+    
+}
+.navbar .navbar-light .bg-light .container-fluid {
+
+    
+    text-align: center;
+    word-spacing: 50pt;
+
+
+
+}
+
+
+.navbar-brand {
+    font-family: fantasy;
+    font-style: italic;
+}
+    
+
+    
+}
+.navbar-nav {
+    margin: 0 50%;
+    color: skyblue;
+}
+.hig {
+    color: violet;
+    margin: 250%;
+}
+.nav-link  {
+    margin: 0 13.6%;
+    text-decoration: solid palevioletred;
+    
+}
+
+.carousel-inner {
+    background-color: hotpink;
+}
+.d-block .w-100 {
+    height: auto;
+
+}
+.carousel-item .d-block {
+    height: 50% !important;
+}
+.bbw {
+    width: 200%;
+    height: 200%;
+}
+.card-img-top {
+    width: 30%;
+    height: 20%;
+    margin: 10% auto;
+}
+.card-group {
+     width: 100%;
+     height: 40%;
+     
+     
+    
+
+     
+}
+.card {
+    
+    background-color: yellow;
+    border-radius: 10%;
+    
+}
+   .card-title {
+       color: teal;
+       font-family: fantasy;
+       font-style: italic;
+       
+   }
+       
+   
+   
+  
+    
